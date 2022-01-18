@@ -1,11 +1,11 @@
-baseURL: "https://runbooks.prometheus-operator.dev"
+baseURL: "https://runbooks.mon.preprod.ops.daysofwonder.com"
 languageCode: "en-us"
 title: "kube-prometheus runbooks"
 
 theme: book
 
 params:
-  BookRepo: "https://github.com/prometheus-operator/runbooks"
+  BookRepo: "https://github.com/JBOClara/runbooks"
   BookEditPath: "edit/main"
   BookSearch: true
   BookSection: "runbooks"
